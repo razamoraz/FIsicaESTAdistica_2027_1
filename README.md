@@ -1,143 +1,86 @@
-# 📚 Master Course Template — cursosFC_UNAM
+# 📚 Física Estadística (2027-1) — Facultad de Ciencias, UNAM
 
-A version-controlled, Obsidian-compatible master course template and learning system for physics courses at **Facultad de Ciencias, UNAM**, created and maintained by **Dr. Roberto Antonio Zamora Zamora**.
+**Profesor:** Dr. Roberto Antonio Zamora Zamora  
+**Contacto:** `roberto.a.zamorazamora@gmail.com`  
+**Duración:** 48 sesiones efectivas (2.0 horas por sesión: Lunes, Miércoles y Viernes)
 
----
-
-## 🌟 Overview & Architecture
-
-This repository serves as the **Master Template (`main` branch)** for generating isolated, interactive, and version-controlled websites for university courses (such as *Física Estadística*, *Matemáticas Avanzadas para la Física*, *Dinámica de Medios Deformables*, etc.).
-
-It integrates three foundational pillars:
-
-1. **Obsidian Knowledge Vault (Public & Git-Tracked)**:
-   - Atomic concept notes (`Concepts/`), lecture logs (`Lectures/`), Map of Content portals (`MoC/`), evaluation guidelines (`Projects/`), and syllabus definitions (`Syllabus.md`).
-   - Rich Markdown frontmatter, LaTeX equation rendering (`$$...$$`), and Obsidian wikilinks (`[[Concept]]`).
-
-2. **Public Static Web Interface via Quartz 5 (Automated Web Deployment)**:
-   - Publishes the interactive vault to **GitHub Pages** without requiring students to install Obsidian or Git.
-   - Includes full-text search, visual graph view, backlinks, popover previews, and KaTeX rendering.
-
-3. **Private PDF Indexing RAG Pipeline (Local & Private)**:
-   - Python tools (`scripts/convert_and_index.py`, `scripts/query_local.py`) to convert textbook PDFs into searchable vector chunks via **LanceDB** for deep offline semantic retrieval without committing copyrighted PDFs.
+Repositorio oficial y bóveda de conocimiento digital del curso de **Física Estadística (FE)** en la Facultad de Ciencias de la UNAM. El material combina rigor analítico en física teórica con simulaciones computacionales en **Python** y **Julia**, además de un énfasis especial en **gases cuánticos ultrafríos** y **dinámica en redes**.
 
 ---
 
-## 🌿 Git Branching Strategy (Per Semester / Course)
+## 🎯 Esquema de Evaluación
 
-To maintain a clean master template while running active courses, use **Git Branching per Term**:
+| Elemento | Ponderación | Detalles |
+| :--- | :---: | :--- |
+| **3 Exámenes Parciales** | **50%** | • **Parcial 1 (Sesión 16)**: Bloques 1 y 2.<br>• **Parcial 2 (Sesión 25)**: Bloques 3 y 4.<br>• **Parcial 3 (Sesión 39)**: Bloques 5 y 6.<br>*Bonificación (+1 pt)*: Al entregar 1 cuartilla manuscrita de síntesis. |
+| **Proyecto Final** | **40%** | Análisis de un artículo científico en equipo o individual.<br>• **Semana 8–9**: Propuesta de 1 página (10%).<br>• **Cierre**: Video dinámico de 7–15 min (40%).<br>• **Sesión 48**: Defensa oral de 15 min (50%). |
+| **Google Forms** | **10%** | Participación y retroalimentación semanal (>90% completados). |
+
+---
+
+## 🗓️ Calendario Sintético del Curso
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                      CALENDARIO SINTÉTICO FE                           │
+├───────────────────────┬──────────┬─────────────────────────────────────┤
+│ Bloque / Actividad    │ Sesiones │ Temas Principales                   │
+├───────────────────────┼──────────┼─────────────────────────────────────┤
+│ Bloque 1              │ 1 - 6    │ Probabilidad, Camino Aleatorio      │
+│ Bloque 2              │ 7 - 15   │ Ensambles de Gibbs (Micro/Can/Gran) │
+│ Examen Parcial 1      │ 16       │ Evaluación Bloques 1 y 2            │
+│ Bloque 3              │ 17 - 22  │ Estadística Cuántica (Bose/Fermi)   │
+│ Bloque 4              │ 23 - 24  │ Radiación de Cuerpo Negro           │
+│ Examen Parcial 2      │ 25       │ Evaluación Bloques 3 y 4            │
+│ Bloque 5              │ 26 - 33  │ Gases No Ideales e Ising            │
+│ Bloque 6              │ 34 - 38  │ Fluctuaciones y Fokker-Planck       │
+│ Examen Parcial 3      │ 39       │ Evaluación Bloques 5 y 6            │
+│ Bloque 7              │ 40 - 42  │ Teoría Cinética y Boltzmann         │
+│ Bloque 8 (Especial)   │ 43 - 47  │ Ultrafríos y Redes (NO EVALUABLE)   │
+│ Cierre Proyectos      │ 48       │ Evaluación Oral de Proyectos        │
+└───────────────────────┴──────────┴─────────────────────────────────────┘
+```
+
+---
+
+## 📖 Bibliografía
+
+1. **Reif, F.** (1968). *Fundamentos de física estadística y térmica*. Editorial del Castillo, Madrid, España.
+2. **Pathria, R. K., & Beale, P. D.** (2021). *Statistical Mechanics* (4th ed.). Academic Press / Elsevier.
+3. Catálogo de 20 artículos científicos en `Projects/Final_Project_Guide.md` y `Sources/Papers/`.
+
+---
+
+## 🚀 Inicio Rápido
+
+### Vista Previa Local (Quartz)
+Requiere Node.js 22+:
 
 ```bash
-# 1. Clone the master repository
-git clone https://github.com/razamoraz/cursosFC_UNAM.git
-cd cursosFC_UNAM
-
-# 2. Create a dedicated branch for a new semester term (e.g. 2026-1 Física Estadística)
-git checkout -b 2026-1-fisica-estadistica
-
-# 3. Customize Syllabus.md, schedule dates, and publish to GitHub Pages
-git add .
-git commit -m "feat: initialize 2026-1 course instance for Física Estadística"
-```
-
-*Note:* Standard template updates or core script fixes made in active branches can be cleanly merged back into `main`.
-
----
-
-## 📁 Repository Structure
-
-```
-.
-├── Syllabus.md                         # Official Course Syllabus (Temario, Evaluation 50/40/10, AI Policy)
-├── index.md                            # Quartz static site homepage
-├── Concepts/                           # Atomic concept notes by domain
-│   ├── Ensembles/
-│   ├── Thermodynamics/
-│   ├── Quantum_Statistics/
-│   ├── Kinetic_Theory_Numerics/
-│   ├── Phase_Transitions/
-│   └── Mathematical_Tools/
-├── Notebooks/                          # Google Colab notebooks for numerical methods
-│   ├── Python/                         # Jupyter notebooks (NumPy, SciPy, PyCUDA, JAX)
-│   └── Julia/                          # High-performance Julia notebooks
-├── Projects/                           # Final project guidelines & paper proposal templates
-│   ├── Final_Project_Guide.md          # 40% Final Project Guide (7-15 min video + oral defense)
-│   └── Paper_Proposal_Template.md      # Week 8-9 Paper Selection proposal template
-├── MoC/                                # Maps of Content (Entry portals by block)
-│   └── Statistical_Physics_MoC.md
-├── Lectures/                           # Chronological course materials & lecture notes
-│   └── Week_01_Introduction.md
-├── Sources/                            # Metadata for textbooks and papers
-├── Source_Registers/                   # Concept-to-literature mappings
-├── Templates/                          # Obsidian note & syllabus templates
-│   ├── Concept.md
-│   ├── Lecture.md
-│   ├── Syllabus_Template.md
-│   └── Project_Rubric.md
-├── scripts/                            # Local Python RAG indexing & CLI query tools
-│   ├── convert_and_index.py
-│   └── query_local.py
-├── .github/workflows/
-│   ├── validate.yml                    # CI vault validation
-│   └── deploy.yml                      # Quartz GitHub Pages deployment
-├── quartz.config.yaml                  # Quartz configuration file
-├── Makefile                            # Development & deployment shortcuts
-└── README.md
-```
-
----
-
-## 🚀 Getting Started
-
-### 1. Local Web Preview (Quartz)
-Ensure Node.js 22+ is installed, then run:
-
-```bash
-# Install Node dependencies
+# Instalar dependencias de Node
 npm install
 
-# Preview site locally on http://localhost:8080
+# Iniciar servidor local en http://localhost:8080
 make site-dev
 
-# Build static HTML production bundle into public/
+# Compilar sitio estático en public/
 make site-build
 ```
 
-### 2. Private PDF RAG & Markdown Pipeline (Optional)
-Convert local textbook PDFs into Markdown (`./output/<book>.md`) and build an offline LanceDB vector index:
+---
 
-```bash
-# 1. Initialize Python environment & dependencies
-make setup
+## 📂 Estructura de la Bóveda
 
-# 2. Place PDFs in ./sample_pdfs/ (or set PDF_DIR in .env)
-
-# 3a. Fast text mode (PyMuPDF - plain text formulas)
-make index
-
-# 3b. Full LaTeX math OCR mode (Marker - genuine $$...$$ equations)
-make index-marker
-
-# 4. Search local vector index
-make query
 ```
-*Note:* Converted Markdown files are saved locally to `./output/*.md` for easy copy-pasting of LaTeX equations and AI prompting. All PDFs and output files are `.gitignore`d for copyright safety.
-
----
-
-## 💯 Course Evaluation Framework (Física Estadística)
-
-- **50% Monthly Exams**: Lowest score dropped. **+1 bonus point per exam** when handing in a 1-page handwritten formula/cheat sheet.
-- **40% Final Project**: Discussion or numerical reproduction of a published scientific paper (individual or max 3).
-  - **Week 8–9**: Paper proposal submission (1 page).
-  - **End of Term**: 7–15 min video presentation + 15 min oral defense.
-- **10% Feedback**: Participation (>90%) in weekly Google Forms feedback.
-- **AI Policy**: AI tools (LLMs) are permitted for code/writing assistance if prompt logs are explicitly disclosed. Strictly forbidden during exams and oral defenses.
-
----
-
-## 🌐 GitHub Pages Deployment
-
-The included GitHub Actions workflow (`.github/workflows/deploy.yml`) automatically builds and deploys Quartz whenever changes are pushed to `main` or active course branches.
-
-Set **Settings > Pages > Source** to `GitHub Actions` in your GitHub repository settings.
+.
+├── Concepts/             # Conceptos atómicos interconectados (Ensambles, Entropía, etc.)
+├── Lectures/             # Bitácora cronológica de las 48 sesiones (Sesion_01 a Sesion_48)
+├── MoC/                  # Map of Content (Mapa temático del curso)
+├── Notebooks/            # Cuadernos interactivos de Google Colab (Python / Julia)
+├── Projects/             # Guía del Proyecto Final (40%) y catálogo de artículos
+├── Sources/
+│   ├── Books/            # Fichas bibliográficas de libros de texto base
+│   └── Papers/           # Fichas de los 20 artículos científicos recomendados
+├── Syllabus.md           # Programa oficial completo del curso
+└── index.md              # Página principal del sitio web
+```
