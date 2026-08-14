@@ -3,7 +3,7 @@ title: "📋 Syllabus: Física Estadística"
 course: "Física Estadística"
 institution: "Facultad de Ciencias, UNAM"
 instructor: "Dr. Roberto Antonio Zamora Zamora"
-email: "roberto.a.zamorazamora@gmail.com"
+email: "roberto.zamorazamora@ciencias.unam.mx"
 tags: [syllabus, course-policy, stat-phys]
 ---
 
@@ -11,8 +11,9 @@ tags: [syllabus, course-policy, stat-phys]
 
 **Facultad de Ciencias, UNAM**  
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
-**Contacto:** `roberto.a.zamorazamora@gmail.com`  
+**Contacto:** `roberto.zamorazamora@ciencias.unam.mx`  
 **Horario y Duración:** 48 clases efectivas (2.0 horas por clase: Lunes, Miércoles y Viernes)
+**Inicio del curso:** 17.08.2026
 
 ---
 
@@ -20,7 +21,7 @@ tags: [syllabus, course-policy, stat-phys]
 
 Este curso cubre el temario oficial de **Física Estadística (FE)** de la Licenciatura en Física en la Facultad de Ciencias de la UNAM. El curso conecta los principios microscópicos de la mecánica clásica y cuántica con las leyes macroscópicas de la termodinámica, explorando la teoría de ensambles de Gibbs, estadísticas cuánticas ideales (Fermi-Dirac y Bose-Einstein), radiación de cuerpo negro, transiciones de fase y fenómenos de transporte fuera del equilibrio. 
 
-El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y dinámica en redes**, así como herramientas computacionales en **Python** y **Julia** (simulaciones Monte Carlo, caminatas aleatorias y análisis de espacio de fases).
+El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y dinámica en redes**, así como herramientas computacionales en **Python** y/o **Julia** (simulaciones Monte Carlo, caminatas aleatorias clásicas/cuánticas y análisis de espacio de fases).
 
 ---
 
@@ -28,17 +29,17 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 | Elemento | Porcentaje | Detalles y Reglas |
 | :--- | :---: | :--- |
-| **3 Exámenes Parciales** | **50%** | • **Parcial 1 (Sesión 16)**: Bloques 1 y 2.<br>• **Parcial 2 (Sesión 25)**: Bloques 3 y 4.<br>• **Parcial 3 (Sesión 39)**: Bloques 5 y 6.<br>*Punto Extra (+1 pt por examen)*: Al entregar 1 cuartilla manuscrita de síntesis/formulario. |
+| **3-5 Exámenes Parciales** | **50%** | • **Parcial 1 (Sesión 16)**: Bloques 1 y 2.<br>• **Parcial 2 (Sesión 25)**: Bloques 3 y 4.<br>• **Parcial 3 (Sesión 39)**: Bloques 5 y 6.<br>*Punto Extra (+1 pt por examen)*: Al entregar 1 cuartilla manuscrita de síntesis/formulario. |
 | **Proyecto Final** | **40%** | Trabajo individual o en equipos (máx. 3 integrantes) sobre un artículo científico de la literatura.<br>• **Semana 8–9 (Propuesta)**: 10% de la nota del proyecto.<br>• **Cierre (Video 7–15 min)**: 40% de la nota del proyecto.<br>• **Sesión 48 (Defensa Oral 15 min)**: 50% de la nota del proyecto. |
 | **Google Forms** | **10%** | Participación y retroalimentación continua (>90% de formularios semanales contestados). |
 
 ---
 
-## 📅 Calendario Sintético
+## 📅 Calendario
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
-│                      CALENDARIO SINTÉTICO FE                           │
+│                      CALENDARIO Física Estadística                     │
 ├───────────────────────┬──────────┬─────────────────────────────────────┤
 │ Bloque / Actividad    │ Sesiones │ Temas Principales                   │
 ├───────────────────────┼──────────┼─────────────────────────────────────┤
@@ -53,13 +54,13 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 │ Examen Parcial 3      │ 39       │ Evaluación Bloques 5 y 6            │
 │ Bloque 7              │ 40 - 42  │ Teoría Cinética y Boltzmann         │
 │ Bloque 8 (Especial)   │ 43 - 47  │ Ultrafríos y Redes (NO EVALUABLE)   │
-│ Cierre Proyectos      │ 48       │ Evaluación Oral de Proyectos        │
+│ Cierre Proyectos      │ <48      │ Evaluación Oral de Proyectos        │
 └───────────────────────┴──────────┴─────────────────────────────────────┘
 ```
 
 ---
 
-## 📚 Distribución Detallada por Sesión (48 Sesiones)
+## 📚 Plan por Sesión (48 Sesiones) 
 
 ### Bloque 1: Probabilidad en Física Estadística (Sesiones 1 a 6)
 - **[[Lectures/Sesion_01_Enfoque_Microscopico_Macroscopico|Sesión 1]]**: Enfoque microscópico vs. macroscópico. Configuración de Obsidian, GitHub y Colab.
@@ -147,7 +148,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 ---
 
 ### 🎓 Cierre de Curso
-- **[[Lectures/Sesion_48_Cierre_Proyectos_Finales|Sesión 48]]**: **Evaluación oral de Proyectos Finales y Cierre de Actividades**.
+- **[[Lectures/Sesion_44_48_Cierre_Proyectos_Finales|Sesión 44-48]]**: **Evaluación oral de Proyectos Finales y Cierre de Actividades**.
 
 ---
 

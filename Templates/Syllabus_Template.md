@@ -10,7 +10,7 @@ tags: [template, syllabus]
 
 **Facultad de Ciencias, UNAM**  
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
-**Contacto:** `roberto.a.zamorazamora@gmail.com`  
+**Contacto:** `roberto.zamorazamora@ciencias.unam.mx`  
 
 ---
 
