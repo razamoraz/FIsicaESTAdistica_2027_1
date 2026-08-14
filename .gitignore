@@ -1,0 +1,27 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDFs and book files (never commit)
+*.pdf
+*.djvu
+*.epub
+*.mobi
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+local_index/
+output/              # for static site build artifacts
+public/              # for static site build artifacts
+.quartz-cache/
+node_modules/

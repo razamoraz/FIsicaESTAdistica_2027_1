@@ -1,0 +1,17 @@
+name: Validate Knowledge Brain Vault
+
+on:
+  push:
+    branches-ignore: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify note structure
+        run: |
+          echo "Validating vault notes..."
+          # Placeholder for vault linting or link verification scripts

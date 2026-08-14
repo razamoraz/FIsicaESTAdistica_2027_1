@@ -1,0 +1,9 @@
+marker-pdf
+lancedb
+sentence-transformers
+pyarrow
+tiktoken
+python-dotenv
+rich
+click
+PyMuPDF
