@@ -14,7 +14,7 @@ Bienvenido a la plataforma digital y red de notas interconectadas para el curso 
 
 ## 🚀 Navegación Rápida del Curso
 
-- 📋 **[[Syllabus|Syllabus Oficial y Criterios de Evaluación]]**: Calendario sintético, políticas de evaluación (50% 5 Parciales con descarte, 40% Proyecto sin reporte escrito, 10% Forms) y desglose de las 48 sesiones.
+- 📋 **[[Syllabus|Syllabus Oficial y Criterios de Evaluación]]**: Calendario general, políticas de evaluación (50% 5 Parciales con descarte, 40% Proyecto sin reporte escrito, 10% Forms) y desglose de las 48 sesiones.
 - 🗺️ **[[MoC/Statistical_Physics_MoC|Map of Content (MoC)]]**: Portal temático interactivo estructurado en 8 bloques de conocimiento.
 - 🎓 **[[Projects/Final_Project_Guide|Guía del Proyecto Final (40%)]]**: Catálogo de 21 artículos científicos, requisitos de propuesta con justificación (Sesión 15), video (Sesión 43) y defensas orales individuales (Sesiones 47–48).
 - 📚 **Bibliografía Principal**:

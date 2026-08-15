@@ -47,7 +47,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-## 📅 Calendario Sintético FE (5 Exámenes + Bloques No Evaluables al Final)
+## 📅 Calendario del Curso (5 Exámenes + Bloques No Evaluables al Final)
 
 | Bloque / Actividad | Sesiones | Temas Principales |
 | :--- | :---: | :--- |

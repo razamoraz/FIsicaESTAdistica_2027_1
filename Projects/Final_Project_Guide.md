@@ -58,7 +58,7 @@ El video debe tener una duración de **7 a 15 minutos** y compartirse mediante u
 
 ---
 
-## ⚖️ Rúbrica de Evaluación del Proyecto Final
+## ⚖️ Criterios de Evaluación del Proyecto Final
 
 | Criterio | Descripción | Ponderación |
 | :--- | :--- | :---: |
