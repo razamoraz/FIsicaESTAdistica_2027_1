@@ -20,8 +20,9 @@ __pycache__/
 .env
 venv/
 .venv/
-local_index/
-output/              # for static site build artifacts
-public/              # for static site build artifacts
+# Static site build artifacts
+output/
+public/
 .quartz-cache/
 node_modules/
+*.tsbuildinfo

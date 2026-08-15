@@ -29,8 +29,8 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 | Elemento | Porcentaje | Detalles y Reglas |
 | :--- | :---: | :--- |
-| **3-5 Exámenes Parciales** | **50%** | • **Parcial 1 (Sesión 16)**: Bloques 1 y 2.<br>• **Parcial 2 (Sesión 25)**: Bloques 3 y 4.<br>• **Parcial 3 (Sesión 39)**: Bloques 5 y 6.<br>*Punto Extra (+1 pt por examen)*: Al entregar 1 cuartilla manuscrita de síntesis/formulario. |
-| **Proyecto Final** | **40%** | Trabajo individual o en equipos (máx. 3 integrantes) sobre un artículo científico de la literatura.<br>• **Semana 8–9 (Propuesta)**: 10% de la nota del proyecto.<br>• **Cierre (Video 7–15 min)**: 40% de la nota del proyecto.<br>• **Sesión 48 (Defensa Oral 15 min)**: 50% de la nota del proyecto. |
+| **3 Exámenes Parciales** | **50%** | • **Parcial 1 (Sesión 16)**: Bloques 1 y 2.<br>• **Parcial 2 (Sesión 25)**: Bloques 3 y 4.<br>• **Parcial 3 (Sesión 36)**: Bloques 5 y 6.<br>*Punto Extra (+1 pt por examen)*: Al entregar 1 cuartilla manuscrita de síntesis/formulario. |
+| **Proyecto Final** | **40%** | Trabajo en equipos (máx. 3 integrantes) o individual sobre un artículo científico de la literatura.<br>• **Semana 8–9 (Propuesta)**: 10% de la nota del proyecto.<br>• **Sesión 42 (Entrega Video 7–15 min & Código)**: 40% de la nota del proyecto.<br>• **Sesiones 43–47 (Defensas Orales 15 min)**: 50% de la nota del proyecto. |
 | **Google Forms** | **10%** | Participación y retroalimentación continua (>90% de formularios semanales contestados). |
 
 ---
@@ -49,12 +49,13 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 │ Bloque 3              │ 17 - 22  │ Estadística Cuántica (Bose/Fermi)   │
 │ Bloque 4              │ 23 - 24  │ Radiación de Cuerpo Negro           │
 │ Examen Parcial 2      │ 25       │ Evaluación Bloques 3 y 4            │
-│ Bloque 5              │ 26 - 33  │ Gases No Ideales e Ising            │
-│ Bloque 6              │ 34 - 38  │ Fluctuaciones y Fokker-Planck       │
-│ Examen Parcial 3      │ 39       │ Evaluación Bloques 5 y 6            │
-│ Bloque 7              │ 40 - 42  │ Teoría Cinética y Boltzmann         │
-│ Bloque 8 (Especial)   │ 43 - 47  │ Ultrafríos y Redes (NO EVALUABLE)   │
-│ Cierre Proyectos      │ <48      │ Evaluación Oral de Proyectos        │
+│ Bloque 5              │ 26 - 30  │ Gases No Ideales e Ising            │
+│ Bloque 6              │ 31 - 35  │ Fluctuaciones, Langevin y Cinética  │
+│ Examen Parcial 3      │ 36       │ Evaluación Bloques 5 y 6            │
+│ Bloque 7 (Especial)   │ 37 - 39  │ Ultrafríos y Redes (Seminario Colab)│
+│ Talleres de Proyecto  │ 40 - 42  │ Asesoría teórica/numérica y videos  │
+│ Defensas de Proyecto  │ 43 - 47  │ Defensas orales (15 min/equipo)     │
+│ Cierre del Curso      │ 48       │ Calificaciones y retroalimentación  │
 └───────────────────────┴──────────┴─────────────────────────────────────┘
 ```
 
@@ -107,48 +108,42 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-### Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising (Sesiones 26 a 33)
-- **[[Lectures/Sesion_26_Vibraciones_Red_Solidos_Einstein_Debye|Sesión 26]]**: Vibraciones de red en sólidos: modelos de Einstein y Debye.
+### Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising (Sesiones 26 a 30)
+- **[[Lectures/Sesion_26_Vibraciones_Red_Solidos_Einstein_Debye|Sesión 26]]**: Vibraciones de red en sólidos (modelos de Einstein y Debye) y sistemas magnéticos.
 - **[[Lectures/Sesion_27_Gases_No_Ideales_Particion_Configuracional_Virial|Sesión 27]]**: Gases no ideales: función de partición configuracional y expansión del virial.
 - **[[Lectures/Sesion_28_Deduccion_Ecuacion_Van_der_Waals|Sesión 28]]**: Deducción de la ecuación de Van der Waals a partir de interacción intermolecular.
-- **[[Lectures/Sesion_29_Ferromagnetismo_Interaccion_Intercambio_Espines|Sesión 29]]**: Ferromagnetismo: interacción de intercambio entre espines.
-- **[[Lectures/Sesion_30_Modelo_Ising_1D_Matriz_Transferencia|Sesión 30]]**: El modelo de Ising 1D (Solución por matriz de transferencia).
-- **[[Lectures/Sesion_31_Modelo_Ising_2D_Teoria_Campo_Medio|Sesión 31]]**: Modelo de Ising en 2D y teoría de campo medio.
-- **[[Lectures/Sesion_32_Sistemas_Dielectricos_Refrigeracion_Magnetica|Sesión 32]]**: Sistemas dieléctricos y refrigeración magnética a bajas temperaturas.
-- **[[Lectures/Sesion_33_Taller_Colab_Simulacion_Monte_Carlo_Metropolis|Sesión 33]]**: Taller en Colab: Simulación Monte Carlo (Algoritmo de Metropolis) para el modelo de Ising.
+- **[[Lectures/Sesion_29_Ferromagnetismo_Interaccion_Intercambio_Espines|Sesión 29]]**: Ferromagnetismo: interacción de intercambio entre espines y modelo de Ising 1D (Matriz de transferencia).
+- **[[Lectures/Sesion_30_Modelo_Ising_2D_Simulacion_Monte_Carlo|Sesión 30]]**: Modelo de Ising en 2D (Teoría de campo medio) y simulación Monte Carlo (Metropolis) en Colab.
 
-### Bloque 6: Fluctuaciones y Procesos Irreversibles (Sesiones 34 a 38)
-- **[[Lectures/Sesion_34_Fluctuaciones_Tendencia_Equilibrio_Nyquist|Sesión 34]]**: Fluctuaciones y tendencia al equilibrio; teorema de Nyquist.
-- **[[Lectures/Sesion_35_Movimiento_Browniano_Ecuacion_Langevin|Sesión 35]]**: Movimiento Browniano y ecuación de Langevin.
-- **[[Lectures/Sesion_36_Ecuacion_Fokker_Planck_Correlacion_Temporal|Sesión 36]]**: Ecuación de Fokker-Planck y funciones de correlación temporal.
-- **[[Lectures/Sesion_37_Procesos_Irreversibles_Relaciones_Onsager|Sesión 37]]**: Procesos irreversibles y relaciones recíprocas de Onsager.
-- **[[Lectures/Sesion_38_Integracion_Teoria_Fluctuaciones|Sesión 38]]**: Integración de la teoría de fluctuaciones.
+### Bloque 6: Fluctuaciones, Procesos Irreversibles y Teoría Cinética (Sesiones 31 a 35)
+- **[[Lectures/Sesion_31_Fluctuaciones_Tendencia_Equilibrio_Nyquist|Sesión 31]]**: Fluctuaciones y tendencia al equilibrio; teorema de Nyquist y fluctuación-disipación.
+- **[[Lectures/Sesion_32_Movimiento_Browniano_Ecuacion_Langevin|Sesión 32]]**: Movimiento Browniano y ecuación de Langevin.
+- **[[Lectures/Sesion_33_Ecuacion_Fokker_Planck_Correlacion_Temporal_Onsager|Sesión 33]]**: Ecuación de Fokker-Planck, correlación temporal y relaciones recíprocas de Onsager.
+- **[[Lectures/Sesion_34_Ecuacion_Transporte_Boltzmann_Colision|Sesión 34]]**: Fundamentos de teoría cinética: la ecuación de transporte de Boltzmann y término de colisión.
+- **[[Lectures/Sesion_35_Teorema_H_Boltzmann_Irreversibilidad_Navier_Stokes|Sesión 35]]**: Teorema $H$ de Boltzmann, irreversibilidad e introducción a las ecuaciones hidrodinámicas (Navier-Stokes).
 
 ---
 
 ### 📝 Evaluación Parcial 3
-- **[[Lectures/Sesion_39_Examen_Parcial_3|Sesión 39]]**: **EXAMEN PARCIAL 3** (Evaluación Bloques 5 y 6).
+- **[[Lectures/Sesion_36_Examen_Parcial_3|Sesión 36]]**: **EXAMEN PARCIAL 3** (Evaluación Bloques 5 y 6).
 
 ---
 
-### Bloque 7: Fundamentos de Teoría Cinética (Sesiones 40 a 42)
-- **[[Lectures/Sesion_40_Ecuacion_Transporte_Boltzmann_Colision|Sesión 40]]**: La ecuación de transporte de Boltzmann y término de colisión.
-- **[[Lectures/Sesion_41_Teorema_H_Boltzmann_Irreversibilidad|Sesión 41]]**: Teorema $H$ de Boltzmann e irreversibilidad.
-- **[[Lectures/Sesion_42_Introduccion_Ecuaciones_Hidrodinamica_Navier_Stokes|Sesión 42]]**: Introducción a las ecuaciones de la hidrodinámica (Navier-Stokes).
-
-### Bloque 8 (Énfasis Especial): Sistemas Cuánticos Ultrafríos y Dinámica en Redes (Sesiones 43 a 47)
+### Bloque 7 (Temas Especiales): Seminario de Sistemas Cuánticos Ultrafríos y Redes (Sesiones 37 a 39)
 > [!NOTE]
-> Esta sección abarca las últimas 2 semanas de curso. No se evaluará en exámenes escritos para otorgar un margen amplio a los estudiantes en la elaboración y pulido de sus proyectos finales.
-- **[[Lectures/Sesion_43_Gases_Ultrafrios_I_BEC_Trampas_Gross_Pitaevskii|Sesión 43]]**: Gases Ultrafríos I: Condensación de Bose-Einstein atrapada armónicamente y ecuación de Gross-Pitaevskii (campo medio).
-- **[[Lectures/Sesion_44_Gases_Ultrafrios_II_Mezclas_Fermionicas_BEC_BCS|Sesión 44]]**: Gases Ultrafríos II: Mezclas fermiónicas degeneradas, cruce BEC-BCS y redes ópticas.
-- **[[Lectures/Sesion_45_Dinamica_Redes_I_Modelos_Espin_Tight_Binding|Sesión 45]]**: Dinámica en Redes I: Modelos de espín y Hamiltoniano de Tight-Binding en grafos/redes.
-- **[[Lectures/Sesion_46_Dinamica_Redes_II_Quantum_Walks_Transporte|Sesión 46]]**: Dinámica en Redes II: Caminantes cuánticos (*quantum walks*) y transporte cuántico en topologías complejas.
-- **[[Lectures/Sesion_47_Dinamica_Fuera_Equilibrio_Thermalizacion_ETH_MBL|Sesión 47]]**: Dinámica fuera del equilibrio: Termalización cuántica, hipótesis de termalización del estado propio (ETH) y localización de muchos cuerpos (MBL).
+> Bloque complementario en formato de seminario y talleres ligeros en Google Colab (no evaluable en examen escrito).
+- **[[Lectures/Sesion_37_Gases_Ultrafrios_BEC_Gross_Pitaevskii|Sesión 37]]**: Gases Ultrafríos I: Condensación de Bose-Einstein atrapada y ecuación de Gross-Pitaevskii.
+- **[[Lectures/Sesion_38_Mezclas_Fermionicas_Redes_Opticas_Tight_Binding|Sesión 38]]**: Gases Ultrafríos II y Redes: Mezclas fermiónicas, redes ópticas y modelo Tight-Binding en grafos.
+- **[[Lectures/Sesion_39_Quantum_Walks_Termalizacion_ETH_MBL|Sesión 39]]**: Dinámica fuera del equilibrio: Caminantes cuánticos (*quantum walks*), termalización cuántica (ETH) y localización (MBL).
 
 ---
 
-### 🎓 Cierre de Curso
-- **[[Lectures/Sesion_44_48_Cierre_Proyectos_Finales|Sesión 44-48]]**: **Evaluación oral de Proyectos Finales y Cierre de Actividades**.
+### 🛠️ Asesoría y Defensas de Proyecto Final (Sesiones 40 a 48)
+- **[[Lectures/Sesion_40_Taller_Proyecto_Asesoria_Teorica|Sesión 40]]**: 🛠️ **Taller de Proyecto Final I**: Asesoría y resolución de dudas sobre derivaciones analíticas y modelos teóricos.
+- **[[Lectures/Sesion_41_Taller_Proyecto_Asesoria_Computacional|Sesión 41]]**: 🛠️ **Taller de Proyecto Final II**: Asesoría computacional, depuración de simulaciones numéricas en Colab (Python/Julia).
+- **[[Lectures/Sesion_42_Taller_Proyecto_Revision_Videos_Entrega|Sesión 42]]**: 🛠️ **Taller de Proyecto Final III**: Revisión de estructura de videos, narrativa y **entrega final de video y reporte**.
+- **[[Lectures/Sesion_43_47_Defensas_Orales_Proyectos|Sesiones 43 a 47]]**: 🗣️ **Defensas Orales de Proyectos Finales**: Rondas de exposición y preguntas (15 min por equipo / 10 min individual). El calendario de asignación se publica en la Sesión 39.
+- **[[Lectures/Sesion_48_Cierre_Curso_Calificaciones|Sesión 48]]**: 🎓 **Cierre del Curso**: Entrega de calificaciones finales, retroalimentación global y conclusión del curso.
 
 ---
 

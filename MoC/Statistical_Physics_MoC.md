@@ -74,51 +74,43 @@ Portal central y red de conocimiento estructurada para el curso de **Física Est
 
 ---
 
-### Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising (Sesiones 26 a 33)
+### Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising (Sesiones 26 a 30)
 - **Sesiones**:
   - [[Lectures/Sesion_26_Vibraciones_Red_Solidos_Einstein_Debye|Sesión 26: Vibraciones de red: modelos de Einstein y Debye]]
   - [[Lectures/Sesion_27_Gases_No_Ideales_Particion_Configuracional_Virial|Sesión 27: Gases no ideales y expansión del virial]]
   - [[Lectures/Sesion_28_Deduccion_Ecuacion_Van_der_Waals|Sesión 28: Deducción de la ecuación de Van der Waals]]
-  - [[Lectures/Sesion_29_Ferromagnetismo_Interaccion_Intercambio_Espines|Sesión 29: Ferromagnetismo e interacción de intercambio]]
-  - [[Lectures/Sesion_30_Modelo_Ising_1D_Matriz_Transferencia|Sesión 30: Modelo de Ising 1D (Matriz de transferencia)]]
-  - [[Lectures/Sesion_31_Modelo_Ising_2D_Teoria_Campo_Medio|Sesión 31: Modelo de Ising 2D y teoría de campo medio]]
-  - [[Lectures/Sesion_32_Sistemas_Dielectricos_Refrigeracion_Magnetica|Sesión 32: Sistemas dieléctricos y refrigeración magnética]]
-  - [[Lectures/Sesion_33_Taller_Colab_Simulacion_Monte_Carlo_Metropolis|Sesión 33: Taller Colab Monte Carlo Metropolis (Ising 2D)]]
+  - [[Lectures/Sesion_29_Ferromagnetismo_Interaccion_Intercambio_Espines|Sesión 29: Ferromagnetismo e interacción de intercambio (Ising 1D)]]
+  - [[Lectures/Sesion_30_Modelo_Ising_2D_Simulacion_Monte_Carlo|Sesión 30: Modelo de Ising 2D y simulación Monte Carlo (Metropolis)]]
 - **Artículos de Proyecto Asociados**:
   - [[Sources/Papers/Valladares_1975|Valladares (1975)]] | [[Sources/Papers/Nairn_1972|Nairn & Kilpatrick (1972)]] | [[Sources/Papers/Stephen_1972|Stephen & Mittag (1972)]] | [[Sources/Papers/Baxter_1991|Baxter (1991)]]
 
 ---
 
-### Bloque 6: Fluctuaciones y Procesos Irreversibles (Sesiones 34 a 38)
+### Bloque 6: Fluctuaciones, Procesos Irreversibles y Teoría Cinética (Sesiones 31 a 35)
 - **Sesiones**:
-  - [[Lectures/Sesion_34_Fluctuaciones_Tendencia_Equilibrio_Nyquist|Sesión 34: Fluctuaciones, equilibrio y teorema de Nyquist]]
-  - [[Lectures/Sesion_35_Movimiento_Browniano_Ecuacion_Langevin|Sesión 35: Movimiento Browniano y ecuación de Langevin]]
-  - [[Lectures/Sesion_36_Ecuacion_Fokker_Planck_Correlacion_Temporal|Sesión 36: Ecuación de Fokker-Planck y correlación]]
-  - [[Lectures/Sesion_37_Procesos_Irreversibles_Relaciones_Onsager|Sesión 37: Procesos irreversibles y relaciones de Onsager]]
-  - [[Lectures/Sesion_38_Integracion_Teoria_Fluctuaciones|Sesión 38: Integración de la teoría de fluctuaciones]]
+  - [[Lectures/Sesion_31_Fluctuaciones_Tendencia_Equilibrio_Nyquist|Sesión 31: Fluctuaciones, equilibrio y teorema de Nyquist]]
+  - [[Lectures/Sesion_32_Movimiento_Browniano_Ecuacion_Langevin|Sesión 32: Movimiento Browniano y ecuación de Langevin]]
+  - [[Lectures/Sesion_33_Ecuacion_Fokker_Planck_Correlacion_Temporal_Onsager|Sesión 33: Ecuación de Fokker-Planck, correlación y relaciones de Onsager]]
+  - [[Lectures/Sesion_34_Ecuacion_Transporte_Boltzmann_Colision|Sesión 34: Ecuación de transporte de Boltzmann y colisiones]]
+  - [[Lectures/Sesion_35_Teorema_H_Boltzmann_Irreversibilidad_Navier_Stokes|Sesión 35: Teorema H de Boltzmann e hidrodinámica (Navier-Stokes)]]
 - **Artículos de Proyecto Asociados**:
   - [[Sources/Papers/Gillespie_1993|Gillespie (1993)]] | [[Sources/Papers/deGrooth_1999|de Grooth (1999)]] | [[Sources/Papers/Allahverdyan_2012|Allahverdyan & Hovhannisyan (2012)]]
-- **Evaluación**: 📝 **[[Lectures/Sesion_39_Examen_Parcial_3|Sesión 39: EXAMEN PARCIAL 3]]**
+- **Evaluación**: 📝 **[[Lectures/Sesion_36_Examen_Parcial_3|Sesión 36: EXAMEN PARCIAL 3]]**
 
 ---
 
-### Bloque 7: Fundamentos de Teoría Cinética (Sesiones 40 a 42)
+### Bloque 7 (Temas Especiales): Seminario de Sistemas Cuánticos Ultrafríos y Dinámica en Redes (Sesiones 37 a 39)
 - **Sesiones**:
-  - [[Lectures/Sesion_40_Ecuacion_Transporte_Boltzmann_Colision|Sesión 40: Ecuación de transporte de Boltzmann]]
-  - [[Lectures/Sesion_41_Teorema_H_Boltzmann_Irreversibilidad|Sesión 41: Teorema H de Boltzmann e irreversibilidad]]
-  - [[Lectures/Sesion_42_Introduccion_Ecuaciones_Hidrodinamica_Navier_Stokes|Sesión 42: Hidrodinámica macroscópica (Navier-Stokes)]]
+  - [[Lectures/Sesion_37_Gases_Ultrafrios_BEC_Gross_Pitaevskii|Sesión 37: Gases Ultrafríos I: BEC en trampas y Gross-Pitaevskii]]
+  - [[Lectures/Sesion_38_Mezclas_Fermionicas_Redes_Opticas_Tight_Binding|Sesión 38: Gases Ultrafríos II: Mezclas fermiónicas, redes ópticas y Tight-Binding]]
+  - [[Lectures/Sesion_39_Quantum_Walks_Termalizacion_ETH_MBL|Sesión 39: Dinámica fuera del equilibrio: Caminantes cuánticos, ETH y MBL]]
 
 ---
 
-### Bloque 8 (Énfasis Especial): Sistemas Cuánticos Ultrafríos y Dinámica en Redes (Sesiones 43 a 47)
-- **Sesiones**:
-  - [[Lectures/Sesion_43_Gases_Ultrafrios_I_BEC_Trampas_Gross_Pitaevskii|Sesión 43: Gases Ultrafríos I: BEC en trampas y Gross-Pitaevskii]]
-  - [[Lectures/Sesion_44_Gases_Ultrafrios_II_Mezclas_Fermionicas_BEC_BCS|Sesión 44: Gases Ultrafríos II: Mezclas fermiónicas y redes ópticas]]
-  - [[Lectures/Sesion_45_Dinamica_Redes_I_Modelos_Espin_Tight_Binding|Sesión 45: Dinámica en Redes I: Tight-Binding en grafos]]
-  - [[Lectures/Sesion_46_Dinamica_Redes_II_Quantum_Walks_Transporte|Sesión 46: Dinámica en Redes II: Caminantes cuánticos y transporte]]
-  - [[Lectures/Sesion_47_Dinamica_Fuera_Equilibrio_Thermalizacion_ETH_MBL|Sesión 47: Dinámica fuera del equilibrio: Termalización, ETH y MBL]]
+### 🛠️ Asesoría y Defensas de Proyecto Final (Sesiones 40 a 48)
+- [[Lectures/Sesion_40_Taller_Proyecto_Asesoria_Teorica|Sesión 40: Taller de Proyecto Final I (Asesoría teórica)]]
+- [[Lectures/Sesion_41_Taller_Proyecto_Asesoria_Computacional|Sesión 41: Taller de Proyecto Final II (Asesoría computacional / Colab)]]
+- [[Lectures/Sesion_42_Taller_Proyecto_Revision_Videos_Entrega|Sesión 42: Taller de Proyecto Final III (Revisión y entrega de video/código)]]
+- [[Lectures/Sesion_43_47_Defensas_Orales_Proyectos|Sesiones 43 a 47: Defensas Orales de Proyectos Finales (15 min por equipo / 10 min individual)]]
+- [[Lectures/Sesion_48_Cierre_Curso_Calificaciones|Sesión 48: Cierre del Curso y Calificaciones Finales]]
 
----
-
-### 🎓 Cierre de Curso (Sesión 48)
-- [[Lectures/Sesion_48_Cierre_Proyectos_Finales|Sesión 48: Evaluación oral de Proyectos Finales y Cierre de Actividades]]

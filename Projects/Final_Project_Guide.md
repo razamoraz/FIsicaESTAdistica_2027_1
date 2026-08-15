@@ -5,7 +5,7 @@ tags: [project, guidelines, evaluation, stat-phys]
 
 # 🎓 Guía del Proyecto Final (40%)
 
-El proyecto final del curso de **Física Estadística (FE)** impartido por el **Dr. Roberto Antonio Zamora Zamora** consiste en el estudio, condensación crítica, derivación analítica o reproducción numérica de un artículo científico publicado en una revista internacional indexada (*American Journal of Physics*, *Journal of Mathematical Physics*, *Physica A*, etc.).
+El proyecto final del curso de **Física Estadística (FE)** consiste en el estudio, condensación crítica, derivación analítica o reproducción numérica de un artículo científico publicado en una revista internacional indexada (*American Journal of Physics*, *Journal of Mathematical Physics*, *Physica A*, etc.) o en su defecto un tema de su interés relacionado no cubierto durante el curso.
 
 ---
 
