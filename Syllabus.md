@@ -49,34 +49,25 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ## 📅 Calendario Sintético FE (5 Exámenes + Bloques No Evaluables al Final)
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│                   CALENDARIO SINTÉTICO FE (5 PARCIALES)               │
-├───────────────────────┬──────────┬─────────────────────────────────────┤
-│ Bloque / Actividad    │ Sesiones │ Temas Principales                   │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 1              │ 1 - 6    │ Probabilidad y Camino Aleatorio     │
-│ 📝 Examen Parcial 1   │ 7        │ Evaluación Bloque 1 (10%)           │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 2              │ 8 - 15   │ Ensambles de Gibbs                 │
-│ 📝 Examen Parcial 2   │ 16       │ Evaluación Bloque 2 (10%)           │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 3              │ 17 - 22  │ Estadística Cuántica (Fermi/Bose)   │
-│ Bloque 4              │ 23 - 24  │ Radiación de Cuerpo Negro           │
-│ 📝 Examen Parcial 3   │ 25       │ Evaluación Bloques 3 y 4 (10%)      │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 5              │ 26 - 33  │ Gases No Ideales y Modelo de Ising  │
-│ 📝 Examen Parcial 4   │ 34       │ Evaluación Bloque 5 (10%)           │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 6              │ 35 - 39  │ Fluctuaciones y Fokker-Planck       │
-│ 📝 Examen Parcial 5   │ 40       │ Evaluación Bloque 6 (10%)           │
-├───────────────────────┼──────────┼─────────────────────────────────────┤
-│ Bloque 7 (Cápsula)    │ 41 - 43  │ Teoría Cinética (NO EVALUABLE)      │
-│ Bloque 8 (Cápsula)    │ 44 - 46  │ Ultrafríos y Redes (NO EVALUABLE)   │
-│ 🎤 Defensas Orales    │ 47 - 48  │ Exposiciones individuales de proyectos│
-│ 🎓 Cierre del Curso   │ 48       │ Entrega de calificaciones y cierre  │
-└───────────────────────┴──────────┴─────────────────────────────────────┘
-```
+| Bloque / Actividad | Sesiones | Temas Principales |
+| :--- | :---: | :--- |
+| **Bloque 1** | 1 – 6 | Probabilidad y Camino Aleatorio |
+| 📝 **Examen Parcial 1** | **7** | **Evaluación Bloque 1 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| **Bloque 2** | 8 – 15 | Ensambles de Gibbs (Microcanónico, Canónico, Gran Canónico) |
+| 📌 **Propuesta Proyecto** | **15** | **Entrega de propuesta con justificación científica (10% del proyecto)** |
+| 📝 **Examen Parcial 2** | **16** | **Evaluación Bloque 2 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| **Bloque 3** | 17 – 22 | Mecánica Estadística Cuántica (Fermi-Dirac y Bose-Einstein) |
+| **Bloque 4** | 23 – 24 | Radiación de Cuerpo Negro (Planck, Stefan-Boltzmann, Wien) |
+| 📝 **Examen Parcial 3** | **25** | **Evaluación Bloques 3 y 4 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| **Bloque 5** | 26 – 33 | Gases No Ideales, Transiciones de Fase y Modelo de Ising |
+| 📝 **Examen Parcial 4** | **34** | **Evaluación Bloque 5 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| **Bloque 6** | 35 – 39 | Fluctuaciones, Langevin y Ecuación de Fokker-Planck |
+| 📝 **Examen Parcial 5** | **40** | **Evaluación Bloque 6 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| **Bloque 7 (Cápsula)** | 41 – 43 | Fundamentos de Teoría Cinética (No evaluable en examen) |
+| 📌 **Entrega Video** | **43** | **Fecha límite de entrega de video y código (30% del proyecto)** |
+| **Bloque 8 (Cápsula)** | 44 – 46 | Sistemas Cuánticos Ultrafríos y Dinámica en Redes (No evaluable) |
+| 🎤 **Defensas Orales** | **47 – 48** | **Discusión oral individual del proyecto (10–15 min c/u — 60% del proyecto)** |
+| 🎓 **Cierre del Curso** | **48** | **Entrega de calificaciones finales y retroalimentación** |
 
 ---
 

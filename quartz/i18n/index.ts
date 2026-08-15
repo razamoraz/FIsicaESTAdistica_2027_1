@@ -43,6 +43,8 @@ export const TRANSLATIONS = {
   "ro-MD": ro,
   "ca-ES": ca,
   "es-ES": es,
+  "es-MX": es,
+  "es-419": es,
   "ar-SA": ar,
   "ar-AE": ar,
   "ar-QA": ar,

@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: "📚 Statistical Physics Brain"
+  pageTitle: "📚 Física Estadística"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: es-MX
   baseUrl: razamoraz.github.io/FIsicaESTAdistica_2027_1
   ignorePatterns:
     - private
