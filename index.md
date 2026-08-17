@@ -2,12 +2,12 @@
 title: "📚 Física Estadística — Facultad de Ciencias, UNAM"
 ---
 
-# 📚 Física Estadística (2027-1)
+# 📚 Física Estadística (2027-1) (Grupo 8307 -📍P113)
 **Facultad de Ciencias, UNAM**  
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
 **Contacto:** `roberto.zamorazamora@ciencias.unam.mx`  
-**Horario:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)
-
+**Esquema:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)
+**Ayudante: Lic. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
 Bienvenido a la plataforma digital y red de notas interconectadas para el curso de **Física Estadística**.
 
 ---
