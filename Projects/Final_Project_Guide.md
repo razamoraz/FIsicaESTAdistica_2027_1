@@ -70,4 +70,5 @@ El video debe tener una duración de **7 a 15 minutos** y compartirse mediante u
 
 ## 📚 Catálogo de Artículos Recomendados por Bloque
 
-Los estudiantes pueden seleccionar libremente uno de los siguientes artículos del catálogo oficial del curso o proponer un artículo equivalente previa autorización:
+Los estudiantes pueden seleccionar libremente uno de los siguientes artículos o proponer un artículo equivalente previa revisión:
+
