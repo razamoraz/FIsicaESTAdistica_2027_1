@@ -24,7 +24,7 @@ El proyecto final del curso de **Física Estadística (FE)** consiste en el estu
 
 ## 📑 1. Requisitos de la Propuesta con Justificación (Sesión 15)
 
-La entrega de la propuesta se realiza a mitad del semestre (**Sesión 15**) subiendo el documento (1–2 páginas en Markdown o PDF) al repositorio según la [[Projects/Paper_Proposal_Template|Plantilla de Propuesta]].
+La entrega de la propuesta se realiza a mitad del semestre (**Sesión 15**) subiendo el documento (1–2 páginas en Markdown o PDF) al repositorio según la [[Projects/Paper_Proposal_Template|Plantilla de Propuesta]]. En su defecto enviarlo por correo electrónico.
 
 Esta propuesta cumple tres funciones pedagógicas indispensables:
 1. **Evitar artículos imposibles**: Garantizar que el artículo no sea inaccesible, puramente experimental sin teoría reproducible, o desconectado del nivel del curso.

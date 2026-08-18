@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: es-MX
+  locale: es-ES
   baseUrl: razamoraz.github.io/FIsicaESTAdistica_2027_1
   ignorePatterns:
     - private
