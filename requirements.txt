@@ -1,3 +1,25 @@
+# ==============================================================================
+# 🐍 Entorno Científico y Laboratorios Computacionales (Física Estadística)
+# ==============================================================================
+
+# Computación numérica y álgebra lineal
+numpy>=1.24.0
+
+# Métodos científicos, funciones especiales y distribuciones
+scipy>=1.10.0
+
+# Visualización y gráficos
+matplotlib>=3.7.0
+
+# Entorno interactivo de Notebooks y kernels
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+notebook>=7.0.0
+ipykernel>=6.20.0
+
+# ==============================================================================
+# 📚 Herramientas de Indexación, OCR y RAG (Base de Conocimiento)
+# ==============================================================================
 marker-pdf
 lancedb
 sentence-transformers

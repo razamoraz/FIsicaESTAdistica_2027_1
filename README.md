@@ -220,4 +220,5 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 2. **[[Sources/Books/Pathria_Beale_2021|Pathria, R. K., & Beale, P. D.]]** (2021). *Statistical Mechanics* (4th ed.). Academic Press / Elsevier.
 
 ### Recursos Computacionales
-- Repositorio del curso: Cuadernos interactivos en `Notebooks/Python/` y/o `Notebooks/Julia/` para simulación numérica y visualización de sistemas estadísticos.
+- **En la nube (Google Colab)**: Accede con un solo clic a los cuadernos interactivos en `Notebooks/Python/` mediante los botones de Colab.
+- **En local**: Configura el entorno virtual completo ejecutando `make setup` e inicia los laboratorios con `make jupyter` o `make lab`.

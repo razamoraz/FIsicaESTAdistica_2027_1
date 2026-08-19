@@ -6,8 +6,13 @@ title: "📚 Física Estadística — Facultad de Ciencias, UNAM"
 **Facultad de Ciencias, UNAM**  
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
 **Contacto:** `roberto.zamorazamora@ciencias.unam.mx`  
-**Esquema:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)
+**Esquema:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)  
 **Ayudante: Lic. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razamoraz/FIsicaESTAdistica_2027_1)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Laboratorios-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/razamoraz/FIsicaESTAdistica_2027_1/blob/main/Notebooks/README.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
 Bienvenido a la plataforma digital y red de notas interconectadas para el curso de **Física Estadística**.
 
 ---
@@ -20,7 +25,9 @@ Bienvenido a la plataforma digital y red de notas interconectadas para el curso 
 - 📚 **Bibliografía Principal**:
   - [[Sources/Books/Reif_1968|Reif (1968) - Fundamentos de física estadística y térmica]]
   - [[Sources/Books/Pathria_Beale_2021|Pathria & Beale (2021) - Statistical Mechanics (4th ed.)]]
-- 💻 **[[Notebooks/README|Laboratorios en Google Colab]]**: Cuadernos interactivos de simulación en **Python** y **Julia**.
+- 💻 **[[Notebooks/README|Laboratorios y Notebooks Interactivos]]**:
+  - **En la nube**: Abre directamente los cuadernos en **Google Colab** sin instalar nada.
+  - **En local**: Configura tu entorno con un solo comando ejecutando `make setup` e inicia con `make jupyter`.
 
 ---
 
