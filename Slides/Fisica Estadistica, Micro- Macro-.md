@@ -39,7 +39,7 @@
 ---
 
 ## 5. El Abismo Cuántico y su Imposibilidad
-La explosión computacional empeora drásticamente si consideramos un sistema clásico.
+La explosión computacional empeora drásticamente si consideramos un sistema cuántico.
 - En cuántica pura, los sistemas compuestos no se suman ($6N$), sino que se describen mediante el producto tensorial de sus espacios de Hilbert individuales. La dimensión crece exponencialmente: $\dim(\mathcal{H}) = d^N$.
 - La dimensión es de $2^{6.022 \times 10^{23}}$. Ni cerca del numero de atomos del universo observable entero ($\sim 10^{80}$). 
 

@@ -52,4 +52,16 @@ Bienvenido a la plataforma digital y red de notas interconectadas para el curso 
 
 ---
 
+## 🛠️ Herramientas del Curso
+
+1. **Herramientas para busqueda de artículos científicos:**
+   - [Semantic Scholar](https://www.semanticscholar.org/)
+   - [Sci-Hub](https://sci-hub.st/)
+   - [ResearchRabbit](https://app.researchrabbit.ai/)
+   - [Scopus](https://www.scopus.com/)
+   - [arXiv](https://arxiv.org/)
+   - [Google Scholar](https://scholar.google.com/)
+   - [ResearchGate](https://www.researchgate.net/)
+    
+    
 *Sitio compilado con Quartz + Obsidian.*
