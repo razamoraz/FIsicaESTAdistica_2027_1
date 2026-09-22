@@ -3,11 +3,12 @@ title: "📚 Física Estadística — Facultad de Ciencias, UNAM"
 ---
 
 # 📚 Física Estadística (2027-1) (Grupo 8307 -📍P113)
-**Facultad de Ciencias, UNAM**  
+**Facultad de Ciencias, UNAM**
+
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
 **Contacto:** `roberto.zamorazamora@ciencias.unam.mx`  
-**Esquema:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)  
-**Ayudante: Lic. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
+**Esquema:** 48 clases efectivas (Lunes, Miércoles y Viernes, 2.0 h/clase)
+**Ayudante: Fis. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razamoraz/FIsicaESTAdistica_2027_1)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Laboratorios-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/razamoraz/FIsicaESTAdistica_2027_1/blob/main/Notebooks/README.md)
@@ -36,10 +37,11 @@ Bienvenido a la plataforma digital y red de notas interconectadas para el curso 
 1. **[[MoC/Statistical_Physics_MoC#Bloque 1: Probabilidad en Física Estadística (Sesiones 1 a 6)|Bloque 1: Probabilidad en Física Estadística]]** (Sesiones 1–6)
    - 📝 **[[Lectures/Sesion_07_Examen_Parcial_1|Examen Parcial 1 (Sesión 7)]]**
 2. **[[MoC/Statistical_Physics_MoC#Bloque 2: Mecánica Estadística a la Gibbs (Sesiones 8 a 15)|Bloque 2: Mecánica Estadística a la Gibbs]]** (Sesiones 8–15)
-   - 📌 *Sesión 15: Entrega de Propuesta de Proyecto con Justificación*
-   - 📝 **[[Lectures/Sesion_16_Examen_Parcial_2|Examen Parcial 2 (Sesión 16)]]**
+   - 📌 *Sesión 15: Inicia entrega de Propuesta de Proyecto con Justificación*
+   - 📝 **[[Lectures/Sesion_16_Examen_Parcial_2|Examen Parcial 2 y 3 (Sesión 13 y 19)]]**
 3. **[[MoC/Statistical_Physics_MoC#Bloque 3: Mecánica Estadística Cuántica (Sesiones 17 a 22)|Bloque 3: Mecánica Estadística Cuántica]]** (Sesiones 17–22)
 4. **[[MoC/Statistical_Physics_MoC#Bloque 4: Radiación de Cuerpo Negro (Sesiones 23 a 24)|Bloque 4: Radiación de Cuerpo Negro]]** (Sesiones 23–24)
+   - 📌 *Sesión 25: Fin de entrega de Propuesta de Proyecto con Justificación*
    - 📝 **[[Lectures/Sesion_25_Examen_Parcial_3|Examen Parcial 3 (Sesión 25)]]**
 5. **[[MoC/Statistical_Physics_MoC#Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising (Sesiones 26 a 33)|Bloque 5: Partículas Interactuantes, Transiciones de Fase y Modelo de Ising]]** (Sesiones 26–33)
    - 📝 **[[Lectures/Sesion_34_Examen_Parcial_4|Examen Parcial 4 (Sesión 34)]]**
@@ -62,6 +64,9 @@ Bienvenido a la plataforma digital y red de notas interconectadas para el curso 
    - [arXiv](https://arxiv.org/)
    - [Google Scholar](https://scholar.google.com/)
    - [ResearchGate](https://www.researchgate.net/)
+
+2. **Materiales:**
+   - [Carpeta compartida](https://drive.google.com/drive/folders/1_Fbs5cFLvUdwCr2PKIfkIn9jCYgVVpKv?usp=drive_link)
     
     
 *Sitio compilado con Quartz + Obsidian.*

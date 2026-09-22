@@ -11,10 +11,13 @@ tags: [syllabus, course-policy, stat-phys]
 # 📋 Syllabus: Física Estadística
 
 **Facultad de Ciencias, UNAM**  
-**Profesor:** Dr. Roberto Antonio Zamora Zamora  
+**Profesor:** Dr. Roberto Antonio Zamora Zamora
 **Contacto:** `roberto.zamorazamora@ciencias.unam.mx`
-**Ayudante: Lic. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
-**Horario y Duración:** 48 clases efectivas (2.0 horas por clase: Lunes, Miércoles y Viernes)  
+
+**Ayudante: Fis. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
+
+**Horario y Duración:** 48 clases efectivas (2.0 horas por clase: Lunes, Miércoles y Viernes)
+
 **Inicio del curso:** 17.08.2026
 
 ---
@@ -31,8 +34,8 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 | Componente | Porcentaje | Detalles y Reglas |
 | :--- | :---: | :--- |
-| **5 Exámenes Parciales** | **50%** | Cada examen vale 10%. Se aplican en las sesiones **7, 16, 25, 34 y 40**. <br>• **Se descarta la calificación más baja** (solo se promedian los 4 mejores). <br>• **Punto Extra (+1 pt por examen)**: Al entregar una cuartilla manuscrita de síntesis/formulario al inicio de cada examen. |
-| **Proyecto Final** | **40%** | Trabajo individual o en equipos (máx. 3 integrantes). <br>• **Propuesta con justificación (Sesión 15)**: Documento breve (1–2 páginas) que incluye relevancia del paper, objetivos/metodología y viabilidad *(10% del proyecto — 4% de la calificación total)*. <br>• **Video (7–15 min) + materiales (código, diapositivas)**: Entrega en la **Sesión 43** *(30% del proyecto — 12% total)*. <br>• **Defensa oral individual (10–15 min por estudiante)**: Agendada en las **Sesiones 47–48** (y horarios de oficina si es necesario) *(60% del proyecto — 24% total)*. <br>• **No se requiere reporte escrito final**; la calificación se basa en la calidad del video y la defensa oral individual. |
+| **6 Exámenes Parciales** | **50%** | Cada examen vale 10%. Se aplican en las sesiones **7, 16, 25, 34 y 40**. <br>• **Se descarta la calificación más baja** (solo se promedian los 5 mejores). <br>• **Punto Extra (+1 pt por examen)**: Al entregar una cuartilla manuscrita de síntesis/formulario al inicio de cada examen. |
+| **Proyecto Final** | **40%** | Trabajo individual o en equipos (máx. 3 integrantes). <br>• **Propuesta con justificación (Sesión 15-25)**: Documento breve (1–2 páginas) que incluye relevancia del paper, objetivos/metodología y viabilidad *(10% del proyecto — 4% de la calificación total)*. <br>• **Video (7–15 min) + materiales (código, diapositivas)**: Entrega en la **Sesión 43** *(30% del proyecto — 12% total)*. <br>• **Defensa oral individual (10–15 min por estudiante)**: Agendada en las **Sesiones 47–48** (y horarios de oficina si es necesario) *(60% del proyecto — 24% total)*. <br>• **No se requiere reporte escrito final**; la calificación se basa en la calidad del video y la defensa oral individual. |
 | **Google Forms** | **10%** | Participación y retroalimentación continua (>90% de formularios semanales contestados). <br>• Primera encuesta: [https://forms.gle/MSgEkbvAA2qTocJU8](https://forms.gle/MSgEkbvAA2qTocJU8) |
 
 ---
@@ -55,15 +58,16 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 | **Bloque 1** | 1 – 6 | Probabilidad y Camino Aleatorio |
 | 📝 **Examen Parcial 1** | **7** | **Evaluación Bloque 1 (10%)** *(+1 pt por cuartilla manuscrita)* |
 | **Bloque 2** | 8 – 15 | Ensambles de Gibbs (Microcanónico, Canónico, Gran Canónico) |
-| 📌 **Propuesta Proyecto** | **15** | **Entrega de propuesta con justificación científica (10% del proyecto)** |
-| 📝 **Examen Parcial 2** | **16** | **Evaluación Bloque 2 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| 📌 **Inicio Propuesta Proyecto** | **15** | **Entrega de propuesta con justificación científica (10% del proyecto)** |
+| 📝 **Examen Parcial 2 y 3** | **12 y 16** | **Evaluación Bloque 2 (10%)** *(+1 pt por cuartilla manuscrita)* |
 | **Bloque 3** | 17 – 22 | Mecánica Estadística Cuántica (Fermi-Dirac y Bose-Einstein) |
 | **Bloque 4** | 23 – 24 | Radiación de Cuerpo Negro (Planck, Stefan-Boltzmann, Wien) |
-| 📝 **Examen Parcial 3** | **25** | **Evaluación Bloques 3 y 4 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| 📝 **Examen Parcial 4** | **25** | **Evaluación Bloques 3 y 4 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| 📌 **Fin de Propuesta Proyecto** | **26** | **Fin de entrega de propuesta con justificación científica (10% del proyecto)** |
 | **Bloque 5** | 26 – 33 | Gases No Ideales, Transiciones de Fase y Modelo de Ising |
-| 📝 **Examen Parcial 4** | **34** | **Evaluación Bloque 5 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| 📝 **Examen Parcial 5** | **34** | **Evaluación Bloque 5 (10%)** *(+1 pt por cuartilla manuscrita)* |
 | **Bloque 6** | 35 – 39 | Fluctuaciones, Langevin y Ecuación de Fokker-Planck |
-| 📝 **Examen Parcial 5** | **40** | **Evaluación Bloque 6 (10%)** *(+1 pt por cuartilla manuscrita)* |
+| 📝 **Examen Parcial 6** | **40** | **Evaluación Bloque 6 (10%)** *(+1 pt por cuartilla manuscrita)* |
 | **Bloque 7 (Cápsula)** | 41 – 43 | Fundamentos de Teoría Cinética (No evaluable en examen) |
 | 📌 **Entrega Video** | **43** | **Fecha límite de entrega de video y código (30% del proyecto)** |
 | **Bloque 8 (Cápsula)** | 44 – 46 | Sistemas Cuánticos Ultrafríos y Dinámica en Redes (No evaluable) |
@@ -97,13 +101,16 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 - **[[Lectures/Sesion_08_Espacio_Fases_Ensamble_Microcanonico|Sesión 8]]**: Espacio de fases y ensamble Microcanónico. Postulado de probabilidades a priori iguales.
 - **[[Lectures/Sesion_09_Entropia_Boltzmann_Gas_Ideal_Paradoja_Gibbs|Sesión 9]]**: Entropía de Boltzmann ($S = k_B \ln \Omega$) y gas ideal clásico. Paradoja de Gibbs.
+### 📝 Evaluación Parcial 2 (23 Septiembre 2026)
+
 - **[[Lectures/Sesion_10_Ensamble_Canonico_Factor_Boltzmann_Particion|Sesión 10]]**: Ensamble Canónico: Factor de Boltzmann y Función de Partición $Z$.
 - **[[Lectures/Sesion_11_Conexion_Termodinamica_Energia_Libre_Helmholtz|Sesión 11]]**: Conexión con la Termodinámica: energía libre de Helmholtz, trabajo y calor.
 - **[[Lectures/Sesion_12_Teorema_Equiparticion_Energia_Limites|Sesión 12]]**: Teorema de equipartición de la energía y sus límites de validez.
 - **[[Lectures/Sesion_13_Ensamble_Gran_Canonico_Potencial_Quimico|Sesión 13]]**: Ensamble Gran Canónico: potencial químico $\mu$ y gran función de partición $\Xi$.
 - **[[Lectures/Sesion_14_Multiplicadores_Lagrange_Derivacion_Distribuciones|Sesión 14]]**: Multiplicadores de Lagrange para la derivación de distribuciones.
+### 📝 Evaluación Parcial 3 (7 Octubre 2026)
 - **[[Lectures/Sesion_15_Aplicaciones_Computacionales_Funciones_Particion|Sesión 15]]**: Aplicaciones computacionales de funciones de partición en Colab y repaso general.  
-  **📌 ENTREGA DE PROPUESTA DE PROYECTO**: Cada equipo (o individual) debe subir al repositorio un documento breve (1–2 páginas) con:
+  **📌 INICIA ENTREGA DE PROPUESTA DE PROYECTO**: Cada equipo (o alumno) debe subir al repositorio un documento breve (1–2 páginas) con:
   - Título y referencia completa del artículo científico seleccionado.
   - Justificación de su elección: conexión directa con al menos un bloque del curso (ej. Bloques 3, 5 o 6).
   - Metodología propuesta: ¿reproducción numérica, extensión analítica, o ambas?
@@ -112,9 +119,8 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-### 📝 Evaluación Parcial 2
 
-- **[[Lectures/Sesion_16_Examen_Parcial_2|Sesión 16]]**: **EXAMEN PARCIAL 2** (Evaluación Bloque 2 – 10%). *Se entrega cuartilla manuscrita para +1 pt.*
+- **[[Lectures/Sesion_16_Examen_Parcial_2|Sesión 16]]**: **EXAMEN PARCIAL 2 y 3** (Evaluación Bloque 2 – 20%). *Se entrega cuartilla manuscrita para +1 pt.*
 
 ---
 
@@ -127,6 +133,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 - **[[Lectures/Sesion_21_Gases_Bosones_Condensacion_Bose_Einstein_Ideal|Sesión 21]]**: Gases de Bosones: Condensación de Bose-Einstein (BEC) ideal y temperatura crítica $T_c$.
 - **[[Lectures/Sesion_22_Capacidad_Termica_Sistemas_Bosonicos|Sesión 22]]**: Capacidad térmica en sistemas bosónicos.
 
+  **📌 FIN DE ENTREGA DE PROPUESTA DE PROYECTO**
 ---
 
 ### Bloque 4: Radiación de Cuerpo Negro (Sesiones 23 a 24)
@@ -136,7 +143,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-### 📝 Evaluación Parcial 3
+### 📝 Evaluación Parcial 4
 
 - **[[Lectures/Sesion_25_Examen_Parcial_3|Sesión 25]]**: **EXAMEN PARCIAL 3** (Evaluación Bloques 3 y 4 – 10%). *Se entrega cuartilla manuscrita para +1 pt.*
 
@@ -155,7 +162,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-### 📝 Evaluación Parcial 4
+### 📝 Evaluación Parcial 5
 
 - **[[Lectures/Sesion_34_Examen_Parcial_4|Sesión 34]]**: **EXAMEN PARCIAL 4** (Evaluación Bloque 5 – 10%). *Se entrega cuartilla manuscrita para +1 pt.*
 
@@ -171,7 +178,7 @@ El curso incluye un **énfasis especial en sistemas cuánticos ultrafríos y din
 
 ---
 
-### 📝 Evaluación Parcial 5
+### 📝 Evaluación Parcial 6
 
 - **[[Lectures/Sesion_40_Examen_Parcial_5|Sesión 40]]**: **EXAMEN PARCIAL 5** (Evaluación Bloque 6 – 10%). *Se entrega cuartilla manuscrita para +1 pt.*
 

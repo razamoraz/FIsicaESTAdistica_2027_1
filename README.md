@@ -13,7 +13,7 @@ tags: [syllabus, course-policy, stat-phys]
 **Facultad de Ciencias, UNAM**  
 **Profesor:** Dr. Roberto Antonio Zamora Zamora  
 **Contacto:** `roberto.zamorazamora@ciencias.unam.mx`
-**Ayudante: Lic. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
+**Ayudante: Fis. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
 **Horario y Duración:** 48 clases efectivas (2.0 horas por clase: Lunes, Miércoles y Viernes)  
 **Inicio del curso:** 17.08.2026
 
