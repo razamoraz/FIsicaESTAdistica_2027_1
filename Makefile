@@ -29,7 +29,7 @@ lab:
 
 test-notebooks:
 	@echo "==> Validando ejecución de notebooks de Python..."
-	$(PYTHON) -c 'import json, glob, matplotlib; matplotlib.use("Agg"); [exec("".join(c["source"]), {}) for nb_file in glob.glob("Notebooks/Python/*.ipynb") for c in json.load(open(nb_file, encoding="utf-8"))["cells"] if c["cell_type"]=="code"]; print("✅ Todos los notebooks se ejecutaron sin errores.")'
+	$(PYTHON) -c 'import json, glob, matplotlib; matplotlib.use("Agg"); [[exec("".join(c["source"]), ns) for c in json.load(open(nb, encoding="utf-8"))["cells"] if c["cell_type"]=="code"] for nb in sorted(glob.glob("Notebooks/Python/*.ipynb")) for ns in [{}]]; print("✅ Todos los notebooks se ejecutaron sin errores.")'
 
 index:
 	$(PYTHON) scripts/convert_and_index.py --engine pymupdf
