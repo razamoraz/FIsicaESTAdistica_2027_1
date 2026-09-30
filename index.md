@@ -11,7 +11,7 @@ title: "📚 Física Estadística — Facultad de Ciencias, UNAM"
 **Ayudante: Fis. Brenda Abigail Garcia Cruz** `brendabigail@estudiantes.fisica.unam.mx`
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/razamoraz/FIsicaESTAdistica_2027_1)
-[![Google Colab](https://img.shields.io/badge/Google_Colab-Laboratorios-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/github/razamoraz/FIsicaESTAdistica_2027_1/blob/main/Notebooks/README.md)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-Laboratorios-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/razamoraz/FIsicaESTAdistica_2027_1/blob/main/Notebooks/README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 Bienvenido a la plataforma digital y red de notas interconectadas para el curso de **Física Estadística**.
